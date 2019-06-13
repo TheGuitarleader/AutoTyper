@@ -15,7 +15,7 @@ namespace BetterTyper
         public int progressPart = 0;
         public int progressWhole = 0;
 
-        public string versionNumber = "v3.5";
+        public string versionNumber = "v3.8";
         public string logFilePath = "C:\\Auto Typer\\latest_log.txt";
 
         public mainForm()
